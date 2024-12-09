@@ -1,1 +1,4 @@
 RockeyKumar_AJU/221610
+git remote add origin https://github.com/rk4567/project.git
+git branch -M main
+git push -u origin main
